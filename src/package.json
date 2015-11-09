@@ -1,4 +1,7 @@
 {
   "name": "non-root-package-json",
-  "version": "1.0.0"
+  "version": "1.0.0",
+  "dependencies": {
+    "async": "^1.0.0"
+  }
 }
