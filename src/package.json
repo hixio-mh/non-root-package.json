@@ -3,5 +3,8 @@
   "version": "1.0.0",
   "dependencies": {
     "async": "^1.0.0"
+  },
+  "devDependencies": {
+    "mocha": "^2.0.0"
   }
 }
