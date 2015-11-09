@@ -1,0 +1,10 @@
+{
+  "name": "src-test-package-json",
+  "version": "1.2.2",
+  "dependencies": {
+    "underscore": "^1.0.0"
+  },
+  "devDependencies": {
+    "nodeunit": "~1.0.0"
+  }
+}
