@@ -5,6 +5,6 @@
     "lodash": "^1.0.0"
   },
   "devDependencies": {
-    "tape": "~1.0.0"
+    "tape": "~1.1.2"
   }
 }
